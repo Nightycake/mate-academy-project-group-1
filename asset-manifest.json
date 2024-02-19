@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mate-academy-project-group-1/static/css/main.7726d2ae.css",
+    "main.js": "/mate-academy-project-group-1/static/js/main.715fbd6b.js",
+    "static/js/787.57f57059.chunk.js": "/mate-academy-project-group-1/static/js/787.57f57059.chunk.js",
+    "static/media/postBackground.jpeg": "/mate-academy-project-group-1/static/media/postBackground.cc082254341e91cf70ce.jpeg",
+    "static/media/Roboto-Regular.ttf": "/mate-academy-project-group-1/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/mate-academy-project-group-1/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/Lora-Regular.ttf": "/mate-academy-project-group-1/static/media/Lora-Regular.d3cbc2c45690ac3703d2.ttf",
+    "static/media/Lora-Bold.ttf": "/mate-academy-project-group-1/static/media/Lora-Bold.ea8e35d6420e18885a30.ttf",
+    "static/media/Spartan-Bold.ttf": "/mate-academy-project-group-1/static/media/Spartan-Bold.c311dbd01e80ebe50942.ttf",
+    "static/media/slick.svg": "/mate-academy-project-group-1/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/mate-academy-project-group-1/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/mate-academy-project-group-1/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/mate-academy-project-group-1/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/mate-academy-project-group-1/index.html",
+    "static/media/sad.svg": "/mate-academy-project-group-1/static/media/sad.09d1e68c6738c53a1d028c5a193127a0.svg",
+    "main.7726d2ae.css.map": "/mate-academy-project-group-1/static/css/main.7726d2ae.css.map",
+    "main.715fbd6b.js.map": "/mate-academy-project-group-1/static/js/main.715fbd6b.js.map",
+    "787.57f57059.chunk.js.map": "/mate-academy-project-group-1/static/js/787.57f57059.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7726d2ae.css",
+    "static/js/main.715fbd6b.js"
+  ]
+}
