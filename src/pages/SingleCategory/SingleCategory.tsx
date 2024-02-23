@@ -1,3 +1,4 @@
+import './categoryHeader.scss';
 import './singleCategory.scss';
 import { useEffect, useState } from 'react';
 // import { useAppDispatch } from '../../app/redux/hooks/hooks';
@@ -40,6 +41,19 @@ const SingleCategory: React.FC = () => {
 
   return (
     <>
+      <div className="slide">
+        <div className="container">
+          <div className="slide__overlay">
+            <div className="slide__overlay__title">
+              {categoryTitle &&
+                categoryTitle.charAt(0).toUpperCase() + categoryTitle.slice(1)}
+            </div>
+            <div className="slide__overlay__text">
+              opis kategorii w zależności od potrzeb
+            </div>
+          </div>
+        </div>
+      </div>
       <div className="container">
         <div className="title">
           <h1>

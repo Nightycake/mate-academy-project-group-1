@@ -1,0 +1,40 @@
+.slide {
+  background-image: url(../../../public/static/images/categories/image-0.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+
+.slide__overlay {
+  color: white;
+  border-radius: 5px;
+  white-space: pre-wrap;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+
+  &__category {
+    background: rgba(0, 0, 0, 0.6);
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 8px;
+    margin: 200px auto 0;
+  }
+
+  &__title {
+    font-size: 36px;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    margin: 200px auto 0;
+  }
+
+  &__text {
+    text-align: center;
+    margin-top: 10px;
+  }
+}

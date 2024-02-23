@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Post } from '../../types/post';
-import { fullDate } from '../../utils/Date/date';
+import { fullDate } from '../../utils/date/date';
 
 type Props = {
   post: Post;
