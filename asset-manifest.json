@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/mate-academy-project-group-1/static/css/main.7726d2ae.css",
-    "main.js": "/mate-academy-project-group-1/static/js/main.715fbd6b.js",
+    "main.css": "/mate-academy-project-group-1/static/css/main.a9a9f7d8.css",
+    "main.js": "/mate-academy-project-group-1/static/js/main.18684fe4.js",
     "static/js/787.57f57059.chunk.js": "/mate-academy-project-group-1/static/js/787.57f57059.chunk.js",
+    "static/media/image-0.jpg": "/mate-academy-project-group-1/static/media/image-0.c57370faa10f55eadb7a.jpg",
     "static/media/postBackground.jpeg": "/mate-academy-project-group-1/static/media/postBackground.cc082254341e91cf70ce.jpeg",
     "static/media/Roboto-Regular.ttf": "/mate-academy-project-group-1/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Roboto-Bold.ttf": "/mate-academy-project-group-1/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
@@ -15,12 +16,12 @@
     "static/media/slick.woff": "/mate-academy-project-group-1/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/mate-academy-project-group-1/index.html",
     "static/media/sad.svg": "/mate-academy-project-group-1/static/media/sad.09d1e68c6738c53a1d028c5a193127a0.svg",
-    "main.7726d2ae.css.map": "/mate-academy-project-group-1/static/css/main.7726d2ae.css.map",
-    "main.715fbd6b.js.map": "/mate-academy-project-group-1/static/js/main.715fbd6b.js.map",
+    "main.a9a9f7d8.css.map": "/mate-academy-project-group-1/static/css/main.a9a9f7d8.css.map",
+    "main.18684fe4.js.map": "/mate-academy-project-group-1/static/js/main.18684fe4.js.map",
     "787.57f57059.chunk.js.map": "/mate-academy-project-group-1/static/js/787.57f57059.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7726d2ae.css",
-    "static/js/main.715fbd6b.js"
+    "static/css/main.a9a9f7d8.css",
+    "static/js/main.18684fe4.js"
   ]
 }
