@@ -14,7 +14,7 @@ const App = () => {
   return (
     <Router>
       <Header />
-      <HashRouter basename="/mate-academy-project-group-1">
+      <HashRouter>
         <Routes>
           {/* <Route path="/add" element={<AddUser />} /> */}
           <Route path="/users/:id" element={<User />} />
